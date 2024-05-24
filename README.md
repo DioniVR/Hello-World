@@ -8,3 +8,5 @@ This is another try!
 Ready, steady, Go!
 
 Great new
+
+Happy Friday
